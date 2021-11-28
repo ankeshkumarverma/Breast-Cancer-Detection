@@ -25,5 +25,11 @@ We are loading breast cancer data using a sk-learn load_brast_cancer class.
  Testing the model to match the result with 34 rows of data (Cross-validation
 of the ML model)
 
-#Files
+# Files
  Breast_Cancer_Detection.ipynb
+
+# Who am I?
+My name is Ankesh Kumar Verma and I'm in final year of my Engineering in Computer Science & Engineering. Now I'm an Intern at Elite Techno Group, and on other side, I am Information Architect & Front-End Developer .And At presnt I'm also working Web Devloper at REC Sonbhadra. I have expertise in Knowlede of Data Structure & Algorithms , OS ,DBMS ,C, Web Technologies, Git&GitHub, Also I have worked on NodeJS , ReactJS, XAMPP.
+
+# Important Links
+LinkedIn - https://www.linkedin.com/in/ankesh-kumar-verma-919472209
